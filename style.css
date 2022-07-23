@@ -1,6 +1,10 @@
 body {
+    align-items: center;
     background-color: coral;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
     text-align: center;
+}
+h1 {
+    margin: 300px auto;
 }
