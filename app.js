@@ -10,8 +10,6 @@ const day = hour * 24;
 let timerId
 
 
-// console.log(birthday)
-
 function countdown() {
     const today = new Date()
     const timeSpan = birthday - today
